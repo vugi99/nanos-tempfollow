@@ -1,2 +1,3 @@
 # nanos-tempfollow
-A library to add Follow to AI
+
+# [Wiki](https://github.com/vugi99/nanos-tempfollow/wiki)
